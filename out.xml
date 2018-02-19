@@ -1,0 +1,663 @@
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\AlignType.java[0m
+[0;32m    src:  [0;36mAlignType.java[0m:[0;36m58:101[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=22, wmcCounter=2, WOC=0.0)
+[0;32m    code: [0mpackage org.apache.ecs;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\ECSDefaults.java[0m
+[0;32m    src:  [0;36mECSDefaults.java[0m:[0;36m1:300[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=16, wmcCounter=19, WOC=0.05882352941176472)
+[0;32m    code: [0mpackage org.apache.ecs;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\Element.java[0m
+[0;32m    src:  [0;36mElement.java[0m:[0;36m58:254[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=34, wmcCounter=30, WOC=0.06666666666666665)
+[0;32m    code: [0mpackage org.apache.ecs;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\Entities.java[0m
+[0;32m    src:  [0;36mEntities.java[0m:[0;36m58:358[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=250, wmcCounter=0, WOC=0.0)
+[0;32m    code: [0mpackage org.apache.ecs;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\FormEvents.java[0m
+[0;32m    src:  [0;36mFormEvents.java[0m:[0;36m58:102[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=4, wmcCounter=4, WOC=0.0)
+[0;32m    code: [0mpackage org.apache.ecs;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\GenericElement.java[0m
+[0;32m    src:  [0;36mGenericElement.java[0m:[0;36m58:862[0m
+[0;32m    rule: [0mGodClass
+[0;32m    msg:  [0mPossible God class (WMC=81, ATFD=27, TCC=0.008754208754208754)
+[0;32m    code: [0mpackage org.apache.ecs;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\MouseEvents.java[0m
+[0;32m    src:  [0;36mMouseEvents.java[0m:[0;36m58:125[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=7, wmcCounter=7, WOC=0.0)
+[0;32m    code: [0mpackage org.apache.ecs;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\examples\HtmlTree.java[0m
+[0;32m    src:  [0;36mHtmlTree.java[0m:[0;36m58:904[0m
+[0;32m    rule: [0mGodClass
+[0;32m    msg:  [0mPossible God class (WMC=64, ATFD=24, TCC=0.10333333333333333)
+[0;32m    code: [0mpackage org.apache.ecs.examples;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\html\Applet.java[0m
+[0;32m    src:  [0;36mApplet.java[0m:[0;36m58:328[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=19, wmcCounter=24, WOC=0.20833333333333337)
+[0;32m    code: [0mpackage org.apache.ecs.html;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\html\Area.java[0m
+[0;32m    src:  [0;36mArea.java[0m:[0;36m58:430[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=27, wmcCounter=26, WOC=0.19999999999999996)
+[0;32m    code: [0mpackage org.apache.ecs.html;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\html\BlockQuote.java[0m
+[0;32m    src:  [0;36mBlockQuote.java[0m:[0;36m58:320[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=12, wmcCounter=17, WOC=0.2941176470588235)
+[0;32m    code: [0mpackage org.apache.ecs.html;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\html\Body.java[0m
+[0;32m    src:  [0;36mBody.java[0m:[0;36m58:333[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=18, wmcCounter=23, WOC=0.21739130434782605)
+[0;32m    code: [0mpackage org.apache.ecs.html;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\html\Button.java[0m
+[0;32m    src:  [0;36mButton.java[0m:[0;36m58:333[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=24, wmcCounter=24, WOC=0.21739130434782605)
+[0;32m    code: [0mpackage org.apache.ecs.html;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\html\Del.java[0m
+[0;32m    src:  [0;36mDel.java[0m:[0;36m58:258[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=12, wmcCounter=17, WOC=0.2941176470588235)
+[0;32m    code: [0mpackage org.apache.ecs.html;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\html\Form.java[0m
+[0;32m    src:  [0;36mForm.java[0m:[0;36m58:443[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=27, wmcCounter=26, WOC=0.1923076923076923)
+[0;32m    code: [0mpackage org.apache.ecs.html;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\html\HR.java[0m
+[0;32m    src:  [0;36mHR.java[0m:[0;36m58:393[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=16, wmcCounter=22, WOC=0.23809523809523814)
+[0;32m    code: [0mpackage org.apache.ecs.html;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\html\IFrame.java[0m
+[0;32m    src:  [0;36mIFrame.java[0m:[0;36m58:353[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=20, wmcCounter=20, WOC=0.26315789473684215)
+[0;32m    code: [0mpackage org.apache.ecs.html;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\html\IMG.java[0m
+[0;32m    src:  [0;36mIMG.java[0m:[0;36m58:442[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=25, wmcCounter=31, WOC=0.16666666666666663)
+[0;32m    code: [0mpackage org.apache.ecs.html;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\html\Input.java[0m
+[0;32m    src:  [0;36mInput.java[0m:[0;36m58:678[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=58, wmcCounter=46, WOC=0.11627906976744184)
+[0;32m    code: [0mpackage org.apache.ecs.html;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\html\Ins.java[0m
+[0;32m    src:  [0;36mIns.java[0m:[0;36m58:259[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=12, wmcCounter=17, WOC=0.2941176470588235)
+[0;32m    code: [0mpackage org.apache.ecs.html;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\html\Label.java[0m
+[0;32m    src:  [0;36mLabel.java[0m:[0;36m58:303[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=14, wmcCounter=19, WOC=0.26315789473684215)
+[0;32m    code: [0mpackage org.apache.ecs.html;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\html\Link.java[0m
+[0;32m    src:  [0;36mLink.java[0m:[0;36m58:308[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=17, wmcCounter=22, WOC=0.2272727272727273)
+[0;32m    code: [0mpackage org.apache.ecs.html;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\html\Map.java[0m
+[0;32m    src:  [0;36mMap.java[0m:[0;36m58:313[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=13, wmcCounter=18, WOC=0.2777777777777778)
+[0;32m    code: [0mpackage org.apache.ecs.html;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\html\ObjectElement.java[0m
+[0;32m    src:  [0;36mObjectElement.java[0m:[0;36m58:540[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=39, wmcCounter=46, WOC=0.11363636363636365)
+[0;32m    code: [0mpackage org.apache.ecs.html;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\html\OptGroup.java[0m
+[0;32m    src:  [0;36mOptGroup.java[0m:[0;36m58:369[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=19, wmcCounter=25, WOC=0.20833333333333337)
+[0;32m    code: [0mpackage org.apache.ecs.html;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\html\Option.java[0m
+[0;32m    src:  [0;36mOption.java[0m:[0;36m58:581[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=26, wmcCounter=37, WOC=0.1875)
+[0;32m    code: [0mpackage org.apache.ecs.html;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\html\PRE.java[0m
+[0;32m    src:  [0;36mPRE.java[0m:[0;36m58:322[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=12, wmcCounter=17, WOC=0.2941176470588235)
+[0;32m    code: [0mpackage org.apache.ecs.html;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\html\Q.java[0m
+[0;32m    src:  [0;36mQ.java[0m:[0;36m58:320[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=12, wmcCounter=17, WOC=0.2941176470588235)
+[0;32m    code: [0mpackage org.apache.ecs.html;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\html\TBody.java[0m
+[0;32m    src:  [0;36mTBody.java[0m:[0;36m58:326[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=19, wmcCounter=24, WOC=0.20833333333333337)
+[0;32m    code: [0mpackage org.apache.ecs.html;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\html\TFoot.java[0m
+[0;32m    src:  [0;36mTFoot.java[0m:[0;36m58:326[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=19, wmcCounter=24, WOC=0.20833333333333337)
+[0;32m    code: [0mpackage org.apache.ecs.html;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\html\TH.java[0m
+[0;32m    src:  [0;36mTH.java[0m:[0;36m58:449[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=28, wmcCounter=34, WOC=0.1515151515151515)
+[0;32m    code: [0mpackage org.apache.ecs.html;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\html\THead.java[0m
+[0;32m    src:  [0;36mTHead.java[0m:[0;36m58:326[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=19, wmcCounter=24, WOC=0.20833333333333337)
+[0;32m    code: [0mpackage org.apache.ecs.html;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\html\TR.java[0m
+[0;32m    src:  [0;36mTR.java[0m:[0;36m58:323[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=16, wmcCounter=21, WOC=0.23809523809523814)
+[0;32m    code: [0mpackage org.apache.ecs.html;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\html\Table.java[0m
+[0;32m    src:  [0;36mTable.java[0m:[0;36m58:420[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=27, wmcCounter=32, WOC=0.15625)
+[0;32m    code: [0mpackage org.apache.ecs.html;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\html\TextArea.java[0m
+[0;32m    src:  [0;36mTextArea.java[0m:[0;36m58:492[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=34, wmcCounter=35, WOC=0.1515151515151515)
+[0;32m    code: [0mpackage org.apache.ecs.html;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\jsp\jsp_page.java[0m
+[0;32m    src:  [0;36mjsp_page.java[0m:[0;36m58:184[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=8, wmcCounter=8, WOC=0.0)
+[0;32m    code: [0mpackage org.apache.ecs.jsp;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\jsp\jsp_useBean.java[0m
+[0;32m    src:  [0;36mjsp_useBean.java[0m:[0;36m58:143[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=5, wmcCounter=5, WOC=0.0)
+[0;32m    code: [0mpackage org.apache.ecs.jsp;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\jsp\tsx_dbconnect.java[0m
+[0;32m    src:  [0;36mtsx_dbconnect.java[0m:[0;36m58:146[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=5, wmcCounter=5, WOC=0.0)
+[0;32m    code: [0mpackage org.apache.ecs.jsp;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\vxml\Audio.java[0m
+[0;32m    src:  [0;36mAudio.java[0m:[0;36m58:146[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=4, wmcCounter=4, WOC=0.0)
+[0;32m    code: [0mpackage org.apache.ecs.vxml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\vxml\Choice.java[0m
+[0;32m    src:  [0;36mChoice.java[0m:[0;36m58:207[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=8, wmcCounter=8, WOC=0.0)
+[0;32m    code: [0mpackage org.apache.ecs.vxml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\vxml\Dtmf.java[0m
+[0;32m    src:  [0;36mDtmf.java[0m:[0;36m58:183[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=6, wmcCounter=6, WOC=0.0)
+[0;32m    code: [0mpackage org.apache.ecs.vxml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\vxml\Field.java[0m
+[0;32m    src:  [0;36mField.java[0m:[0;36m58:182[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=6, wmcCounter=6, WOC=0.0)
+[0;32m    code: [0mpackage org.apache.ecs.vxml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\vxml\Goto.java[0m
+[0;32m    src:  [0;36mGoto.java[0m:[0;36m58:172[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=8, wmcCounter=8, WOC=0.0)
+[0;32m    code: [0mpackage org.apache.ecs.vxml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\vxml\Grammar.java[0m
+[0;32m    src:  [0;36mGrammar.java[0m:[0;36m58:182[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=6, wmcCounter=6, WOC=0.0)
+[0;32m    code: [0mpackage org.apache.ecs.vxml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\vxml\Link.java[0m
+[0;32m    src:  [0;36mLink.java[0m:[0;36m58:153[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=7, wmcCounter=7, WOC=0.0)
+[0;32m    code: [0mpackage org.apache.ecs.vxml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\vxml\Meta.java[0m
+[0;32m    src:  [0;36mMeta.java[0m:[0;36m58:139[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=6, wmcCounter=6, WOC=0.0)
+[0;32m    code: [0mpackage org.apache.ecs.vxml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\vxml\Object.java[0m
+[0;32m    src:  [0;36mObject.java[0m:[0;36m58:270[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=13, wmcCounter=13, WOC=0.0)
+[0;32m    code: [0mpackage org.apache.ecs.vxml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\vxml\Param.java[0m
+[0;32m    src:  [0;36mParam.java[0m:[0;36m58:141[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=5, wmcCounter=5, WOC=0.0)
+[0;32m    code: [0mpackage org.apache.ecs.vxml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\vxml\Prompt.java[0m
+[0;32m    src:  [0;36mPrompt.java[0m:[0;36m58:144[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=4, wmcCounter=4, WOC=0.0)
+[0;32m    code: [0mpackage org.apache.ecs.vxml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\vxml\Property.java[0m
+[0;32m    src:  [0;36mProperty.java[0m:[0;36m58:290[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=19, wmcCounter=19, WOC=0.0)
+[0;32m    code: [0mpackage org.apache.ecs.vxml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\vxml\Pros.java[0m
+[0;32m    src:  [0;36mPros.java[0m:[0;36m58:134[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=4, wmcCounter=4, WOC=0.0)
+[0;32m    code: [0mpackage org.apache.ecs.vxml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\vxml\Record.java[0m
+[0;32m    src:  [0;36mRecord.java[0m:[0;36m58:191[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=9, wmcCounter=9, WOC=0.0)
+[0;32m    code: [0mpackage org.apache.ecs.vxml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\vxml\Script.java[0m
+[0;32m    src:  [0;36mScript.java[0m:[0;36m58:147[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=5, wmcCounter=5, WOC=0.0)
+[0;32m    code: [0mpackage org.apache.ecs.vxml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\vxml\Subdialog.java[0m
+[0;32m    src:  [0;36mSubdialog.java[0m:[0;36m58:254[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=12, wmcCounter=12, WOC=0.0)
+[0;32m    code: [0mpackage org.apache.ecs.vxml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\vxml\Submit.java[0m
+[0;32m    src:  [0;36mSubmit.java[0m:[0;36m58:233[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=9, wmcCounter=9, WOC=0.0)
+[0;32m    code: [0mpackage org.apache.ecs.vxml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\vxml\Transfer.java[0m
+[0;32m    src:  [0;36mTransfer.java[0m:[0;36m58:196[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=8, wmcCounter=8, WOC=0.0)
+[0;32m    code: [0mpackage org.apache.ecs.vxml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\vxml\Value.java[0m
+[0;32m    src:  [0;36mValue.java[0m:[0;36m58:146[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=4, wmcCounter=4, WOC=0.0)
+[0;32m    code: [0mpackage org.apache.ecs.vxml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\vxml\Vxml.java[0m
+[0;32m    src:  [0;36mVxml.java[0m:[0;36m58:158[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=4, wmcCounter=4, WOC=0.0)
+[0;32m    code: [0mpackage org.apache.ecs.vxml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\wml\Img.java[0m
+[0;32m    src:  [0;36mImg.java[0m:[0;36m58:186[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=8, wmcCounter=8, WOC=0.0)
+[0;32m    code: [0mpackage org.apache.ecs.wml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\wml\Meta.java[0m
+[0;32m    src:  [0;36mMeta.java[0m:[0;36m58:124[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=4, wmcCounter=4, WOC=0.0)
+[0;32m    code: [0mpackage org.apache.ecs.wml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\xhtml\applet.java[0m
+[0;32m    src:  [0;36mapplet.java[0m:[0;36m58:344[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=20, wmcCounter=25, WOC=0.19999999999999996)
+[0;32m    code: [0mpackage org.apache.ecs.xhtml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\xhtml\area.java[0m
+[0;32m    src:  [0;36marea.java[0m:[0;36m58:440[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=25, wmcCounter=27, WOC=0.1923076923076923)
+[0;32m    code: [0mpackage org.apache.ecs.xhtml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\xhtml\blockquote.java[0m
+[0;32m    src:  [0;36mblockquote.java[0m:[0;36m58:334[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=13, wmcCounter=18, WOC=0.2777777777777778)
+[0;32m    code: [0mpackage org.apache.ecs.xhtml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\xhtml\body.java[0m
+[0;32m    src:  [0;36mbody.java[0m:[0;36m58:347[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=19, wmcCounter=24, WOC=0.20833333333333337)
+[0;32m    code: [0mpackage org.apache.ecs.xhtml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\xhtml\button.java[0m
+[0;32m    src:  [0;36mbutton.java[0m:[0;36m58:344[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=22, wmcCounter=25, WOC=0.20833333333333337)
+[0;32m    code: [0mpackage org.apache.ecs.xhtml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\xhtml\caption.java[0m
+[0;32m    src:  [0;36mcaption.java[0m:[0;36m58:262[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=12, wmcCounter=17, WOC=0.2941176470588235)
+[0;32m    code: [0mpackage org.apache.ecs.xhtml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\xhtml\del.java[0m
+[0;32m    src:  [0;36mdel.java[0m:[0;36m58:272[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=13, wmcCounter=18, WOC=0.2777777777777778)
+[0;32m    code: [0mpackage org.apache.ecs.xhtml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\xhtml\form.java[0m
+[0;32m    src:  [0;36mform.java[0m:[0;36m58:455[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=26, wmcCounter=27, WOC=0.18518518518518523)
+[0;32m    code: [0mpackage org.apache.ecs.xhtml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\xhtml\hr.java[0m
+[0;32m    src:  [0;36mhr.java[0m:[0;36m58:408[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=17, wmcCounter=23, WOC=0.2272727272727273)
+[0;32m    code: [0mpackage org.apache.ecs.xhtml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\xhtml\iframe.java[0m
+[0;32m    src:  [0;36miframe.java[0m:[0;36m58:364[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=18, wmcCounter=21, WOC=0.25)
+[0;32m    code: [0mpackage org.apache.ecs.xhtml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\xhtml\img.java[0m
+[0;32m    src:  [0;36mimg.java[0m:[0;36m58:457[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=26, wmcCounter=32, WOC=0.16129032258064513)
+[0;32m    code: [0mpackage org.apache.ecs.xhtml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\xhtml\input.java[0m
+[0;32m    src:  [0;36minput.java[0m:[0;36m58:616[0m
+[0;32m    rule: [0mGodClass
+[0;32m    msg:  [0mPossible God class (WMC=47, ATFD=8, TCC=0.0)
+[0;32m    code: [0mpackage org.apache.ecs.xhtml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\xhtml\ins.java[0m
+[0;32m    src:  [0;36mins.java[0m:[0;36m58:273[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=13, wmcCounter=18, WOC=0.2777777777777778)
+[0;32m    code: [0mpackage org.apache.ecs.xhtml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\xhtml\label.java[0m
+[0;32m    src:  [0;36mlabel.java[0m:[0;36m58:317[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=15, wmcCounter=20, WOC=0.25)
+[0;32m    code: [0mpackage org.apache.ecs.xhtml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\xhtml\legend.java[0m
+[0;32m    src:  [0;36mlegend.java[0m:[0;36m58:303[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=12, wmcCounter=17, WOC=0.2941176470588235)
+[0;32m    code: [0mpackage org.apache.ecs.xhtml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\xhtml\link.java[0m
+[0;32m    src:  [0;36mlink.java[0m:[0;36m58:323[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=18, wmcCounter=23, WOC=0.21739130434782605)
+[0;32m    code: [0mpackage org.apache.ecs.xhtml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\xhtml\map.java[0m
+[0;32m    src:  [0;36mmap.java[0m:[0;36m58:327[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=14, wmcCounter=19, WOC=0.26315789473684215)
+[0;32m    code: [0mpackage org.apache.ecs.xhtml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\xhtml\object.java[0m
+[0;32m    src:  [0;36mobject.java[0m:[0;36m58:554[0m
+[0;32m    rule: [0mGodClass
+[0;32m    msg:  [0mPossible God class (WMC=47, ATFD=34, TCC=0.0)
+[0;32m    code: [0mpackage org.apache.ecs.xhtml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\xhtml\optgroup.java[0m
+[0;32m    src:  [0;36moptgroup.java[0m:[0;36m58:383[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=20, wmcCounter=26, WOC=0.19999999999999996)
+[0;32m    code: [0mpackage org.apache.ecs.xhtml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\xhtml\option.java[0m
+[0;32m    src:  [0;36moption.java[0m:[0;36m58:461[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=23, wmcCounter=32, WOC=0.2068965517241379)
+[0;32m    code: [0mpackage org.apache.ecs.xhtml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\xhtml\p.java[0m
+[0;32m    src:  [0;36mp.java[0m:[0;36m58:290[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=12, wmcCounter=17, WOC=0.2941176470588235)
+[0;32m    code: [0mpackage org.apache.ecs.xhtml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\xhtml\pre.java[0m
+[0;32m    src:  [0;36mpre.java[0m:[0;36m58:336[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=13, wmcCounter=18, WOC=0.2777777777777778)
+[0;32m    code: [0mpackage org.apache.ecs.xhtml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\xhtml\q.java[0m
+[0;32m    src:  [0;36mq.java[0m:[0;36m58:334[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=13, wmcCounter=18, WOC=0.2777777777777778)
+[0;32m    code: [0mpackage org.apache.ecs.xhtml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\xhtml\select.java[0m
+[0;32m    src:  [0;36mselect.java[0m:[0;36m58:476[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=24, wmcCounter=34, WOC=0.22580645161290325)
+[0;32m    code: [0mpackage org.apache.ecs.xhtml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\xhtml\table.java[0m
+[0;32m    src:  [0;36mtable.java[0m:[0;36m58:434[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=28, wmcCounter=33, WOC=0.1515151515151515)
+[0;32m    code: [0mpackage org.apache.ecs.xhtml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\xhtml\tbody.java[0m
+[0;32m    src:  [0;36mtbody.java[0m:[0;36m58:340[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=20, wmcCounter=25, WOC=0.19999999999999996)
+[0;32m    code: [0mpackage org.apache.ecs.xhtml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\xhtml\textarea.java[0m
+[0;32m    src:  [0;36mtextarea.java[0m:[0;36m58:481[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=30, wmcCounter=34, WOC=0.15625)
+[0;32m    code: [0mpackage org.apache.ecs.xhtml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\xhtml\tfoot.java[0m
+[0;32m    src:  [0;36mtfoot.java[0m:[0;36m58:340[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=20, wmcCounter=25, WOC=0.19999999999999996)
+[0;32m    code: [0mpackage org.apache.ecs.xhtml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\xhtml\th.java[0m
+[0;32m    src:  [0;36mth.java[0m:[0;36m58:463[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=29, wmcCounter=35, WOC=0.1470588235294118)
+[0;32m    code: [0mpackage org.apache.ecs.xhtml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\xhtml\thead.java[0m
+[0;32m    src:  [0;36mthead.java[0m:[0;36m58:340[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=20, wmcCounter=25, WOC=0.19999999999999996)
+[0;32m    code: [0mpackage org.apache.ecs.xhtml;
+
+[1;33m*[0m file: [1;37m.\src\java\org\apache\ecs\xhtml\tr.java[0m
+[0;32m    src:  [0;36mtr.java[0m:[0;36m58:337[0m
+[0;32m    rule: [0mDataClassRule
+[0;32m    msg:  [0mPossible Data class (PUBLIC_DATA=17, wmcCounter=22, WOC=0.2272727272727273)
+[0;32m    code: [0mpackage org.apache.ecs.xhtml;
+
+
+
+Summary:
+
+org.apache.ecs.vxml.Vxml : 1
+org.apache.ecs.vxml.Property : 1
+org.apache.ecs.vxml.Prompt : 1
+org.apache.ecs.html.Body : 1
+org.apache.ecs.html.OptGroup : 1
+org.apache.ecs.html.IMG : 1
+org.apache.ecs.xhtml.form : 1
+org.apache.ecs.xhtml.hr : 1
+org.apache.ecs.vxml.Transfer : 1
+org.apache.ecs.wml.Meta : 1
+org.apache.ecs.jsp.tsx_dbconnect : 1
+org.apache.ecs.xhtml.textarea : 1
+org.apache.ecs.html.Area : 1
+org.apache.ecs.xhtml.tbody : 1
+org.apache.ecs.xhtml.optgroup : 1
+org.apache.ecs.xhtml.caption : 1
+org.apache.ecs.html.Option : 1
+org.apache.ecs.html.IFrame : 1
+org.apache.ecs.examples.HtmlTree : 1
+org.apache.ecs.xhtml.del : 1
+org.apache.ecs.Element : 1
+org.apache.ecs.xhtml.button : 1
+org.apache.ecs.html.TBody : 1
+org.apache.ecs.html.PRE : 1
+org.apache.ecs.xhtml.pre : 1
+org.apache.ecs.html.ObjectElement : 1
+org.apache.ecs.xhtml.select : 1
+org.apache.ecs.xhtml.p : 1
+org.apache.ecs.xhtml.q : 1
+org.apache.ecs.xhtml.input : 1
+org.apache.ecs.xhtml.body : 1
+org.apache.ecs.html.TH : 1
+org.apache.ecs.html.TextArea : 1
+org.apache.ecs.vxml.Dtmf : 1
+org.apache.ecs.html.TR : 1
+org.apache.ecs.vxml.Object : 1
+org.apache.ecs.xhtml.area : 1
+org.apache.ecs.html.Table : 1
+org.apache.ecs.html.Link : 1
+org.apache.ecs.vxml.Script : 1
+org.apache.ecs.html.HR : 1
+org.apache.ecs.GenericElement : 1
+org.apache.ecs.vxml.Grammar : 1
+org.apache.ecs.vxml.Param : 1
+org.apache.ecs.html.Applet : 1
+org.apache.ecs.xhtml.img : 1
+org.apache.ecs.ECSDefaults : 1
+org.apache.ecs.xhtml.link : 1
+org.apache.ecs.MouseEvents : 1
+org.apache.ecs.xhtml.iframe : 1
+org.apache.ecs.html.Input : 1
+org.apache.ecs.FormEvents : 1
+org.apache.ecs.vxml.Value : 1
+org.apache.ecs.Entities : 1
+org.apache.ecs.xhtml.thead : 1
+org.apache.ecs.vxml.Subdialog : 1
+org.apache.ecs.jsp.jsp_page : 1
+org.apache.ecs.xhtml.table : 1
+org.apache.ecs.vxml.Audio : 1
+org.apache.ecs.vxml.Meta : 1
+org.apache.ecs.xhtml.legend : 1
+org.apache.ecs.vxml.Record : 1
+org.apache.ecs.jsp.jsp_useBean : 1
+org.apache.ecs.html.Del : 1
+org.apache.ecs.xhtml.th : 1
+org.apache.ecs.xhtml.label : 1
+org.apache.ecs.xhtml.applet : 1
+org.apache.ecs.vxml.Link : 1
+org.apache.ecs.html.THead : 1
+org.apache.ecs.html.Map : 1
+org.apache.ecs.xhtml.tfoot : 1
+org.apache.ecs.xhtml.blockquote : 1
+org.apache.ecs.xhtml.object : 1
+org.apache.ecs.html.TFoot : 1
+org.apache.ecs.html.Form : 1
+org.apache.ecs.xhtml.map : 1
+org.apache.ecs.html.Button : 1
+org.apache.ecs.html.Ins : 1
+org.apache.ecs.xhtml.option : 1
+org.apache.ecs.html.BlockQuote : 1
+org.apache.ecs.vxml.Choice : 1
+org.apache.ecs.xhtml.tr : 1
+org.apache.ecs.vxml.Goto : 1
+org.apache.ecs.html.Q : 1
+org.apache.ecs.xhtml.ins : 1
+org.apache.ecs.wml.Img : 1
+org.apache.ecs.AlignType : 1
+org.apache.ecs.html.Label : 1
+org.apache.ecs.vxml.Field : 1
+org.apache.ecs.vxml.Submit : 1
+org.apache.ecs.vxml.Pros : 1
+[0;32m    err:  [0;36mError while parsing C:\Users\Umi\Desktop\ThesisCodes\TestProjects\ecs\src\java\org\apache\ecs\ConcreteElement.java[0m
+
+[0;32m    err:  [0;36mError while parsing C:\Users\Umi\Desktop\ThesisCodes\TestProjects\ecs\src\java\org\apache\ecs\ElementAttributes.java[0m
+
+[0;32m    err:  [0;36mError while parsing C:\Users\Umi\Desktop\ThesisCodes\TestProjects\ecs\src\java\org\apache\ecs\filter\RegexpFilter.java[0m
+
+[0;32m    err:  [0;36mError while parsing C:\Users\Umi\Desktop\ThesisCodes\TestProjects\ecs\src\java\org\apache\ecs\html\A.java[0m
+
+[0;32m    err:  [0;36mError while parsing C:\Users\Umi\Desktop\ThesisCodes\TestProjects\ecs\src\java\org\apache\ecs\html\Select.java[0m
+
+[0;32m    err:  [0;36mError while parsing C:\Users\Umi\Desktop\ThesisCodes\TestProjects\ecs\src\java\org\apache\ecs\html\TD.java[0m
+
+[0;32m    err:  [0;36mError while parsing C:\Users\Umi\Desktop\ThesisCodes\TestProjects\ecs\src\java\org\apache\ecs\vxml\TestBed2.java[0m
+
+[0;32m    err:  [0;36mError while parsing C:\Users\Umi\Desktop\ThesisCodes\TestProjects\ecs\src\java\org\apache\ecs\xhtml\a.java[0m
+
+[0;32m    err:  [0;36mError while parsing C:\Users\Umi\Desktop\ThesisCodes\TestProjects\ecs\src\java\org\apache\ecs\xhtml\td.java[0m
+
+[0;32m    err:  [0;36mError while parsing C:\Users\Umi\Desktop\ThesisCodes\TestProjects\ecs\src\java\org\apache\ecs\xml\XML.java[0m
+
+[1;31m*[0m errors:   [1;37m91[0m
+[1;33m*[0m warnings: [1;37m91[0m
